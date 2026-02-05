@@ -1,5 +1,3 @@
 # test
 test repo for git hub commands demonstration
-
-
-asd
+#remove the junk values
